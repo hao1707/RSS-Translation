@@ -16,3 +16,4 @@
  - source003 [https://rsshub.app/wsj/en-us/technology](https://rsshub.app/wsj/en-us/technology) -> [WSJ_en-us_technology](rss/WSJ_en-us_technology)
  - source004 [https://rsshub.app/wsj/en-us/books-arts](https://rsshub.app/wsj/en-us/books-arts) -> [WSJ_en-us_books-arts](rss/WSJ_en-us_books-arts)
  - source005 [https://rsshub.app/theatlantic/most-popular](https://rsshub.app/theatlantic/most-popular) -> [theatlantic_most-popular](rss/theatlantic_most-popular)
+ - source006 [https://harpers.org/feed/](https://harpers.org/feed/) -> [harpers](rss/harpers)

@@ -17,3 +17,4 @@
  - source004 [https://rsshub.app/wsj/en-us/books-arts](https://rsshub.app/wsj/en-us/books-arts) -> [WSJ_en-us_books-arts](rss/WSJ_en-us_books-arts)
  - source005 [https://rsshub.app/theatlantic/most-popular](https://rsshub.app/theatlantic/most-popular) -> [theatlantic_most-popular](rss/theatlantic_most-popular)
  - source006 [https://harpers.org/feed/](https://harpers.org/feed/) -> [harpers](rss/harpers)
+ - source007 [https://rss.beehiiv.com/feeds/4aF2pGVAEN.xml](https://rss.beehiiv.com/feeds/4aF2pGVAEN.xml) -> [News Minimalist](rss/News Minimalist)
